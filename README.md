@@ -26,6 +26,9 @@ This is my list learn programming.
 - https://blog.drewolson.org/dependency-injection-in-go
 ### Java
 - https://java-design-patterns.com/
+
+### Circuit Breaker
+- https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 ### Infrastructure
 - https://www.lambdatest.com/integrations
 ### Design
