@@ -24,6 +24,7 @@ This is my list learn programming.
 ### Golang
 - https://gowebexamples.com/
 - https://blog.drewolson.org/dependency-injection-in-go
+- https://golang.hotexamples.com/
 ### Java
 - https://java-design-patterns.com/
 
@@ -31,8 +32,13 @@ This is my list learn programming.
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
 - https://dzone.com/articles/go-microservices-part-11-hystrix-and-resilience
+### Database Calculator
+- https://www.mysqlcalculator.com/
+- https://pgtune.leopard.in.ua/#/
 ### Infrastructure
 - https://www.lambdatest.com/integrations
+### Scrapping
+- https://www.youtube.com/watch?v=HFu4y0EWDlE
 ### Design
 - https://www.learnsketch.com/tutorials
 - https://www.sketch.com/docs/getting-started/
@@ -57,7 +63,12 @@ This is my list learn programming.
 - https://podcasts.apple.com/us/podcast/the-new-stack-makers/id915443155
 
 ## Download
+### IDE
 - http://soft98.ir/software/programming/1504-goland.html
+### API Design
+- https://www.postman.com/downloads/
+- https://insomnia.rest/
+
 
 ## Group
 - https://github.com/hendisantika/List-All-Programming-Telegram-Group
