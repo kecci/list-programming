@@ -38,7 +38,14 @@ This is my list learn programming.
 ### Infrastructure
 - https://www.lambdatest.com/integrations
 ### Scrapping
-- https://www.youtube.com/watch?v=HFu4y0EWDlE
+- https://www.youtube.com/watch?v=HFu4y0EWDlE (GrabFood)
+- https://www.devdungeon.com/content/web-scraping-go
+- https://github.com/cakazies/go-scraping
+- https://github.com/je-suis-tm/web-scraping
+- https://github.com/PacktPublishing/Go-Web-Scraping-Quick-Start-Guide
+- https://github.com/PuerkitoBio/goquery
+- https://github.com/geziyor/geziyor
+- https://github.com/ernesto-jimenez/scraperboard
 ### Design
 - https://www.learnsketch.com/tutorials
 - https://www.sketch.com/docs/getting-started/
