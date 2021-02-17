@@ -37,6 +37,7 @@ This is my list learn programming.
 - https://pgtune.leopard.in.ua/#/
 ### Infrastructure
 - https://www.lambdatest.com/integrations
+- https://github.com/traefik/traefik
 ### Scrapping
 - https://www.youtube.com/watch?v=HFu4y0EWDlE (GrabFood)
 - https://www.devdungeon.com/content/web-scraping-go
@@ -46,6 +47,11 @@ This is my list learn programming.
 - https://github.com/PuerkitoBio/goquery
 - https://github.com/geziyor/geziyor
 - https://github.com/ernesto-jimenez/scraperboard
+- http://go-colly.org/
+- https://benjamincongdon.me/blog/2018/03/01/Scraping-the-Web-in-Golang-with-Colly-and-Goquery/
+- https://gophp.io/parsing-websites-with-golang-and-colly/
+- https://kanzitelli.medium.com/good-news-app-backend-in-golang-colly-usage-325ded0b5d34
+- https://github.com/kanzitelli/good-news-backend
 ### Design
 - https://www.learnsketch.com/tutorials
 - https://www.sketch.com/docs/getting-started/
