@@ -30,6 +30,8 @@ This is my list learn programming.
 - https://golang.hotexamples.com/
 ### Java
 - https://java-design-patterns.com/
+- https://github.com/AdoptOpenJDK/homebrew-openjdk
+- https://devqa.io/brew-install-java/
 ### Circuit Breaker
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
