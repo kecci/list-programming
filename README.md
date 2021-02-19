@@ -19,6 +19,9 @@ This is my list learn programming.
 - https://www.disciplinedagiledelivery.com/
 ### Microservices
 - https://microservices.io/
+### Authorization
+- https://craftingjava.com/blog/user-management-domain-model-rest-api/
+- https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
 ### Refactoring
 - https://sourcemaking.com/
 ### Golang
@@ -27,7 +30,6 @@ This is my list learn programming.
 - https://golang.hotexamples.com/
 ### Java
 - https://java-design-patterns.com/
-
 ### Circuit Breaker
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
