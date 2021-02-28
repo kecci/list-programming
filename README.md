@@ -26,9 +26,13 @@ This is my list learn programming.
 - https://sourcemaking.com/
 ### Golang
 - https://golangbyexample.com/
-- https://gowebexamples.com/
-- https://blog.drewolson.org/dependency-injection-in-go
 - https://golang.hotexamples.com/
+- https://gowebexamples.com/
+- https://github.com/Alikhll/golang-developer-roadmap
+- https://blog.drewolson.org/dependency-injection-in-go
+- https://github.com/elliotchance/pie
+- https://github.com/golang/go/wiki/SliceTricks
+- https://xuri.me/toml-to-go/
 ### Java
 - https://java-design-patterns.com/
 - https://github.com/AdoptOpenJDK/homebrew-openjdk
