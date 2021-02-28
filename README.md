@@ -28,6 +28,7 @@ This is my list learn programming.
 - https://golangbyexample.com/
 - https://golang.hotexamples.com/
 - https://gowebexamples.com/
+- https://github.com/tmrts/go-patterns
 - https://github.com/Alikhll/golang-developer-roadmap
 - https://blog.drewolson.org/dependency-injection-in-go
 - https://github.com/elliotchance/pie
