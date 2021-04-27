@@ -42,6 +42,9 @@ This is my list learn programming.
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
 - https://dzone.com/articles/go-microservices-part-11-hystrix-and-resilience
+### Geometry Database
+- https://dev.mysql.com/doc/refman/5.7/en/gis-data-formats.html#:~:text=MySQL%20supports%20geometry%20types%20of,geometry%20types%20are%20not%20supported. (MYSQL)
+- http://postgis.net/workshops/postgis-intro/geometries.html
 ### Database Calculator
 - https://www.mysqlcalculator.com/
 - https://pgtune.leopard.in.ua/#/
@@ -64,7 +67,8 @@ This is my list learn programming.
 - https://kanzitelli.medium.com/good-news-app-backend-in-golang-colly-usage-325ded0b5d34
 - https://github.com/kanzitelli/good-news-backend
 ### Benchmark
-- https://github.com/mcollina/autocannon
+- https://github.com/mcollina/autocannon (URL Performance Test)
+- https://github.com/GoogleChrome/lighthouse (Front-end Performance Test)
 ### Design
 - https://www.learnsketch.com/tutorials
 - https://www.sketch.com/docs/getting-started/
@@ -78,7 +82,7 @@ This is my list learn programming.
 - https://podcasts.apple.com/us/podcast/data-crunch/id1165189603
 - https://podcasts.apple.com/us/podcast/big-data-beard/id1285608909
 - https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425
-- https://podcasts.apple.com/us/podcast/test-code-python-testing-development/id1029487211
+- https://podcasts.apple.com/us/podcast/test-code-python-testing-development/id1029487211 
 ### Architect
 - https://podcasts.apple.com/us/podcast/drill-to-detail/id1141126960
 - https://podcasts.apple.com/us/podcast/the-architecht-show/id1190649898
