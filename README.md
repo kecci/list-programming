@@ -45,9 +45,10 @@ This is my list learn programming.
 ### Database Calculator
 - https://www.mysqlcalculator.com/
 - https://pgtune.leopard.in.ua/#/
-### Infrastructure
+### Devops / Infrastructure
 - https://www.lambdatest.com/integrations
 - https://github.com/traefik/traefik
+- https://www.freecodecamp.org/news/the-nginx-handbook/
 ### Scrapping
 - https://www.youtube.com/watch?v=HFu4y0EWDlE (GrabFood)
 - https://www.devdungeon.com/content/web-scraping-go
