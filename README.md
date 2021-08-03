@@ -22,6 +22,11 @@ This is my list learn programming.
 ### Authorization
 - https://craftingjava.com/blog/user-management-domain-model-rest-api/
 - https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
+### Git Repository
+- https://rushabhshah065.medium.com/lets-move-repository-from-bitbucket-to-github-with-all-branches-and-commits-f93c7d3bda67
+### Service Mesh
+- https://blog.polymatic.systems/service-mesh-wars-goodbye-istio-b047d9e533c7
+- https://linkerd.io/2.10/getting-started/
 ### Refactoring
 - https://sourcemaking.com/
 ### Golang
@@ -34,6 +39,10 @@ This is my list learn programming.
 - https://github.com/elliotchance/pie
 - https://github.com/golang/go/wiki/SliceTricks
 - https://xuri.me/toml-to-go/
+- https://github.com/realsangil/ddl2struct
+- https://deepsource.io/blog/common-antipatterns-in-go/
+- https://www.freecodecamp.org/news/generics-in-golang/
+- https://henr-janitra.medium.com/multiple-lock-with-key-implementation-in-go-9e60c2e4d430
 ### Java
 - https://java-design-patterns.com/
 - https://github.com/AdoptOpenJDK/homebrew-openjdk
@@ -42,6 +51,7 @@ This is my list learn programming.
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
 - https://dzone.com/articles/go-microservices-part-11-hystrix-and-resilience
+- https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001
 ### Geometry Database
 - https://dev.mysql.com/doc/refman/5.7/en/gis-data-formats.html#:~:text=MySQL%20supports%20geometry%20types%20of,geometry%20types%20are%20not%20supported. (MYSQL)
 - http://postgis.net/workshops/postgis-intro/geometries.html
