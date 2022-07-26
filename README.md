@@ -1,35 +1,13 @@
 # list-programming
 
-This is my list learn programming.
+This list of programming.
 
 ## Course
+- https://sekolahkoding.com/ (Indonesia)
 - https://insidelearn.com/
 - https://www.onlinecourses.ooo/
 
-## Article
-- https://www.testingexcellence.com/
-- http://ilmukomputer.org/
-- https://dzone.com/
-- https://softwareengineeringdaily.com/
-- https://hackernoon.com/
-- https://builtin.com/
-### Agile
-- https://www.agilesparks.com/blog/
-- http://agilemodeling.com/
-- https://www.disciplinedagiledelivery.com/
-### Microservices
-- https://microservices.io/
-- https://medium.com/geekculture/microservices-apis-a7b43ce850ee
-### Authorization
-- https://craftingjava.com/blog/user-management-domain-model-rest-api/
-- https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
-### Git Repository
-- https://rushabhshah065.medium.com/lets-move-repository-from-bitbucket-to-github-with-all-branches-and-commits-f93c7d3bda67
-### Service Mesh
-- https://blog.polymatic.systems/service-mesh-wars-goodbye-istio-b047d9e533c7
-- https://linkerd.io/2.10/getting-started/
-### Refactoring
-- https://sourcemaking.com/
+## Programming Language
 ### Golang
 - https://golangbyexample.com/
 - https://golang.hotexamples.com/
@@ -48,6 +26,34 @@ This is my list learn programming.
 - https://java-design-patterns.com/
 - https://github.com/AdoptOpenJDK/homebrew-openjdk
 - https://devqa.io/brew-install-java/
+### Bun JS
+- https://www.youtube.com/watch?v=X5V6RXJBp8I&t=1030s
+- https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
+
+## Article
+- https://www.testingexcellence.com/
+- https://dzone.com/
+- https://softwareengineeringdaily.com/
+- https://hackernoon.com/
+- https://builtin.com/
+- http://ilmukomputer.org/ (Indonesia)
+### Agile
+- https://www.agilesparks.com/blog/
+- http://agilemodeling.com/
+- https://www.disciplinedagiledelivery.com/
+### Microservices
+- https://microservices.io/
+- https://medium.com/geekculture/microservices-apis-a7b43ce850ee
+### Authorization
+- https://craftingjava.com/blog/user-management-domain-model-rest-api/
+- https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
+### Git Repository
+- https://rushabhshah065.medium.com/lets-move-repository-from-bitbucket-to-github-with-all-branches-and-commits-f93c7d3bda67
+### Service Mesh
+- https://blog.polymatic.systems/service-mesh-wars-goodbye-istio-b047d9e533c7
+- https://linkerd.io/2.10/getting-started/
+### Refactoring
+- https://sourcemaking.com/
 ### Circuit Breaker
 - https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
 - https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/
@@ -114,7 +120,7 @@ This is my list learn programming.
 - https://www.sejda.com/
 
 
-## Group
+## Membership & Group
 - https://github.com/hendisantika/List-All-Programming-Telegram-Group
 
 ## OS
