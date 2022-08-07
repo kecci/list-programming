@@ -38,6 +38,11 @@ This list of programming.
 - https://ngrok.com/
 - https://loophole.cloud/
 
+## Testing & Mocking
+### API HTTP Mock
+- https://webhook.site/
+- https://designer.mocky.io/
+
 ## Article
 - https://www.testingexcellence.com/
 - https://dzone.com/
@@ -94,6 +99,10 @@ This list of programming.
 ### Design
 - https://www.learnsketch.com/tutorials
 - https://www.sketch.com/docs/getting-started/
+### Terminal
+- https://iterm2.com/
+- https://fig.io/
+- https://www.warp.dev/
 
 ## Podcast
 ### Data
