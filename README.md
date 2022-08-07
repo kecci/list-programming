@@ -30,6 +30,14 @@ This list of programming.
 - https://www.youtube.com/watch?v=X5V6RXJBp8I&t=1030s
 - https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
 
+## Infrastructure
+- https://www.lambdatest.com/integrations
+- https://github.com/traefik/traefik
+- https://www.freecodecamp.org/news/the-nginx-handbook/
+### Local Hosting
+- https://ngrok.com/
+- https://loophole.cloud/
+
 ## Article
 - https://www.testingexcellence.com/
 - https://dzone.com/
@@ -65,10 +73,6 @@ This list of programming.
 ### Database Calculator
 - https://www.mysqlcalculator.com/
 - https://pgtune.leopard.in.ua/#/
-### Devops / Infrastructure
-- https://www.lambdatest.com/integrations
-- https://github.com/traefik/traefik
-- https://www.freecodecamp.org/news/the-nginx-handbook/
 ### Scrapping
 - https://www.youtube.com/watch?v=HFu4y0EWDlE (GrabFood)
 - https://www.devdungeon.com/content/web-scraping-go
