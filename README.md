@@ -79,6 +79,7 @@ This list of programming.
 - https://www.mysqlcalculator.com/
 - https://pgtune.leopard.in.ua/#/
 ### Scrapping
+- https://scrapeops.io/
 - https://www.youtube.com/watch?v=HFu4y0EWDlE (GrabFood)
 - https://www.devdungeon.com/content/web-scraping-go
 - https://github.com/cakazies/go-scraping
