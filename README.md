@@ -8,6 +8,8 @@ This list of programming.
 - https://www.onlinecourses.ooo/
 
 ## Programming Language
+### Code Review
+- https://dev.to/markadel/backend-code-review-checklist-280h?ref=dailydev
 ### Golang
 - https://golangbyexample.com/
 - https://golang.hotexamples.com/
