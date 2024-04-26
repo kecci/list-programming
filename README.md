@@ -22,6 +22,7 @@ This list of programming.
 - https://deepsource.io/blog/common-antipatterns-in-go/
 - https://www.freecodecamp.org/news/generics-in-golang/
 - https://henr-janitra.medium.com/multiple-lock-with-key-implementation-in-go-9e60c2e4d430
+- https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
 ### Java
 - https://java-design-patterns.com/
 - https://github.com/AdoptOpenJDK/homebrew-openjdk
