@@ -33,6 +33,9 @@ This list of programming.
 - https://www.youtube.com/watch?v=X5V6RXJBp8I&t=1030s
 - https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
 
+## Feature Flag / Feature Toggle
+- https://github.com/flipt-io/flipt
+
 ## Infrastructure
 - https://www.lambdatest.com/integrations
 - https://github.com/traefik/traefik
