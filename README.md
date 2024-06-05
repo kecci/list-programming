@@ -33,6 +33,17 @@ This list of programming.
 - https://www.youtube.com/watch?v=X5V6RXJBp8I&t=1030s
 - https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
 
+## Feature Flag / Feature Toggle
+- https://github.com/flipt-io/flipt
+- https://github.com/Unleash/unleash
+- https://github.com/PostHog/posthog
+- https://github.com/growthbook/growthbook/
+- https://github.com/Flagsmith/flagsmith
+- https://github.com/flippercloud/flipper
+- https://github.com/featbit/featbit
+- https://github.com/featurehub-io/featurehub
+- https://openfeature.dev/
+
 ## Infrastructure
 - https://www.lambdatest.com/integrations
 - https://github.com/traefik/traefik
@@ -45,6 +56,10 @@ This list of programming.
 ### API HTTP Mock
 - https://webhook.site/
 - https://designer.mocky.io/
+### Email Mock
+- https://mailcatcher.me/
+- https://github.com/mailhog/MailHog
+- https://github.com/maildev/maildev
 
 ## Article
 - https://www.testingexcellence.com/
@@ -107,6 +122,8 @@ This list of programming.
 - https://iterm2.com/
 - https://fig.io/
 - https://www.warp.dev/
+### Throttle & Debounce
+- https://medium.com/jogjajs-community/memahami-debounce-dan-throttle-bersama-tayo-bis-kecil-ramah-e0d02bfc8857
 
 ## Podcast
 ### Data
