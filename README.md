@@ -51,6 +51,8 @@ This list of programming.
 - https://www.lambdatest.com/integrations
 - https://github.com/traefik/traefik
 - https://www.freecodecamp.org/news/the-nginx-handbook/
+### SSL
+- https://dev.to/cheeselemon/ssl-in-localhost-takes-5-seconds-now-460i?ref=dailydev
 ### Local Hosting
 - https://ngrok.com/
 - https://loophole.cloud/
