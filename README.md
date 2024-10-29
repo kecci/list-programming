@@ -82,6 +82,7 @@ This list of programming.
 - https://microservices.io/
 - https://medium.com/geekculture/microservices-apis-a7b43ce850ee
 ### Authorization
+- https://github.com/Permify/permify
 - https://craftingjava.com/blog/user-management-domain-model-rest-api/
 - https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
 ### Git Repository
