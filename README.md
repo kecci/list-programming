@@ -36,6 +36,11 @@ This list of programming.
 - https://www.youtube.com/watch?v=X5V6RXJBp8I&t=1030s
 - https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
 
+## Database & Queue
+- https://spin.atomicobject.com/redis-postgresql/?ref=dailydev
+- https://www.redpanda.com/
+- https://nats.io/
+
 ## Feature Flag / Feature Toggle
 - https://github.com/flipt-io/flipt
 - https://github.com/Unleash/unleash
