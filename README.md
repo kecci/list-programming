@@ -53,6 +53,11 @@ This list of programming.
 - https://openfeature.dev/
 
 ## Infrastructure
+## Cloud Computing / Hosting
+- https://www.vultr.com
+- https://www.digitalocean.com
+
+## Gateway & Load Balancer
 - https://www.lambdatest.com/integrations
 - https://github.com/traefik/traefik
 - https://www.freecodecamp.org/news/the-nginx-handbook/
